@@ -1,4 +1,4 @@
-{
+var annesPOI = [{
 "type": "FeatureCollection",
                                                                                 
 "features": [
@@ -18,3 +18,4 @@
 
 ]
 }
+];
